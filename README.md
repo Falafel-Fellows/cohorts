@@ -2,6 +2,8 @@
 
 A place for notes.
 
+Maybe the new home for https://github.com/fczuardi/fellowship
+
 
 ## Cohorts
 
